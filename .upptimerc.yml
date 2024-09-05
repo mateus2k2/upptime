@@ -9,7 +9,7 @@ sites:
     url: https://homarr.88367832.xyz/board/default
   - name: WireGuard
     url: homelab.88367832.xyz
-    port: 51820
+    # port: 51820
     check: "tcp-ping"
 
 status-website:
