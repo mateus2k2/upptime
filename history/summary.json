@@ -4,18 +4,20 @@
     "url": "https://homarr.88367832.xyz/board/default",
     "icon": "https://icons.duckduckgo.com/ip3/homarr.88367832.xyz.ico",
     "slug": "homarr",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 842,
-    "timeDay": 859,
-    "timeWeek": 842,
-    "timeMonth": 842,
-    "timeYear": 842,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.93%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 733,
+    "timeDay": 467,
+    "timeWeek": 733,
+    "timeMonth": 733,
+    "timeYear": 733,
+    "dailyMinutesDown": {
+      "2024-09-07": 1
+    }
   },
   {
     "name": "WireGuard",
@@ -34,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-07": 46,
+      "2024-09-07": 113,
       "2024-09-06": 1440,
       "2024-09-05": 225
     }
