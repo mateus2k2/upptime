@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/homarr.88367832.xyz.ico",
     "slug": "homarr",
     "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
-    "time": 733,
-    "timeDay": 467,
-    "timeWeek": 733,
-    "timeMonth": 733,
-    "timeYear": 733,
+    "uptime": "56.28%",
+    "uptimeDay": "4.15%",
+    "uptimeWeek": "56.28%",
+    "uptimeMonth": "56.28%",
+    "uptimeYear": "56.28%",
+    "time": 651,
+    "timeDay": 78,
+    "timeWeek": 651,
+    "timeMonth": 651,
+    "timeYear": 651,
     "dailyMinutesDown": {
-      "2024-09-07": 1
+      "2024-09-08": 52,
+      "2024-09-07": 1328
     }
   },
   {
@@ -36,7 +37,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-07": 113,
+      "2024-09-08": 52,
+      "2024-09-07": 1440,
       "2024-09-06": 1440,
       "2024-09-05": 225
     }
