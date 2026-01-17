@@ -25,19 +25,19 @@
     "url": "https://mail.vps.mateusfms.com/",
     "icon": "https://icons.duckduckgo.com/ip3/mail.vps.mateusfms.com.ico",
     "slug": "mailu",
-    "status": "down",
-    "uptime": "99.67%",
-    "uptimeDay": "95.95%",
-    "uptimeWeek": "99.42%",
-    "uptimeMonth": "99.67%",
-    "uptimeYear": "99.67%",
-    "time": 276,
-    "timeDay": 182,
-    "timeWeek": 279,
-    "timeMonth": 276,
-    "timeYear": 276,
+    "status": "up",
+    "uptime": "99.42%",
+    "uptimeDay": "92.94%",
+    "uptimeWeek": "98.99%",
+    "uptimeMonth": "99.42%",
+    "uptimeYear": "99.42%",
+    "time": 278,
+    "timeDay": 255,
+    "timeWeek": 285,
+    "timeMonth": 278,
+    "timeYear": 278,
     "dailyMinutesDown": {
-      "2026-01-17": 58
+      "2026-01-17": 102
     }
   }
 ]
