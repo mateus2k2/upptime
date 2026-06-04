@@ -4,17 +4,17 @@
     "url": "https://homarr.mateusfms.com/boards/default",
     "icon": "https://icons.duckduckgo.com/ip3/homarr.mateusfms.com.ico",
     "slug": "hommar",
-    "status": "down",
-    "uptime": "97.75%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "97.75%",
-    "time": 812,
-    "timeDay": 1998,
-    "timeWeek": 1075,
-    "timeMonth": 957,
-    "timeYear": 812,
+    "status": "up",
+    "uptime": "97.65%",
+    "uptimeDay": "84.14%",
+    "uptimeWeek": "97.73%",
+    "uptimeMonth": "99.25%",
+    "uptimeYear": "97.65%",
+    "time": 813,
+    "timeDay": 1661,
+    "timeWeek": 1065,
+    "timeMonth": 958,
+    "timeYear": 813,
     "dailyMinutesDown": {
       "2026-01-09": 17,
       "2026-01-11": 365,
@@ -41,7 +41,8 @@
       "2026-04-29": 10,
       "2026-05-02": 53,
       "2026-05-22": 94,
-      "2026-05-21": 3
+      "2026-05-21": 3,
+      "2026-06-04": 228
     }
   },
   {
